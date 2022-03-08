@@ -1,0 +1,5 @@
+{
+                         "ip":"BestFriendSMPNo1.aternos.me",
+                         "port": "38884",
+                         "name": "gamerfleet"
+}
